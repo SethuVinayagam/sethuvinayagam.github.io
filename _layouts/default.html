@@ -22,10 +22,12 @@
         {% if site.logo %}
           <img src="{{site.logo | relative_url}}" alt="Logo" />
         {% endif %}
-
-        <p>{{ site.description | default: site.github.project_tagline }}</p>
+        
+        <p style="text-align:justify">PhD student under the <a href="https://pmrf.in">Prime Minister's Research Fellowship</a> scheme in the <a href="https://civil.iitm.ac.in">Department of Civil Engineering at Indian Institute of Technology Madras</a></p>
         
         <!---
+        <p>{{ site.description | default: site.github.project_tagline }}</p>
+        
         {% if site.github.is_project_page %}
         <p class="view"><a href="{{ site.github.repository_url }}">View the Project on GitHub <small>{{ site.github.repository_nwo }}</small></a></p>
         {% endif %}
