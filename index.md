@@ -19,9 +19,9 @@ If you're looking for someone who can translate data into smoother commutes and 
     
     _Advisors_: [Dr. Bhargava Rama Chilukuri](https://civil.iitm.ac.in/faculty/bhargava), [Dr. Karthik K. Srinivasan](https://civil.iitm.ac.in/faculty/karthikks)
 
-    _CGPA_: 9.56 / 10
+    _CGPA_: 9.71 / 10
     
-    _Courses completed_:
+    _Coursework_:
     
     - Public Transportation
     - Urban Transportation Planning
@@ -34,7 +34,7 @@ If you're looking for someone who can translate data into smoother commutes and 
     - Fundamentals of Deep Learning
 
 
-- **Bachelor of Technology (Honors)** in Civil Engineering (2015 - 2019)
+- **Bachelor of Technology (Honours)** in Civil Engineering (2015 - 2019)
 
     [National Institute of Technology Tiruchirappalli](https://www.nitt.edu), Trichy, India
 
@@ -45,13 +45,23 @@ If you're looking for someone who can translate data into smoother commutes and 
 
 # Research Interest
 
-Development of connected vehicle algorithms and applications to improve public transit performance concerning passenger health, safety, reliability, and fuel efficiency
+**Models and Algorithms for Real-time State Estimation and Optimization for a Bus Transit System**
+_Goal_: To develop solutions to improve public transit service quality in terms of accessibility, reliability, and crowding using real-time automatic vehicle location (AVL) and electronic ticketing machine (ETM) data
 
-[A brief overview of my work](https://youtu.be/3YT6rjSXP7U?t=1899)
+
+# Research Output
+## Journal Publications
+
+- Udhayasekar, S. V., K. K. Srinivasan, and B. R. Chilukuri. 2023. "Revisiting transit accessibility: Effect of stochasticity, real-time information, congestion, and network structure." _Transp. Res. Part A Policy Pract._ (Under Review)
+- Udhayasekar, S. V., K. K. Srinivasan, P. Kumar, and B. R. Chilukuri. “Multi-destination K Simple Shortest Paths Problem and Variants: Label-setting Algorithms and Applications.” _IEEE Access_ (Under Review)
+
+## Conference Presentations
+
+- Udhayasekar S. V., M. M. Manjalavil, G. A. Ramakrishnan, A. Devaraj and K. K. Srinivasan. 2021. "Application of deep learning models to forecast bus transit passenger demand." _6<sup>th</sup> Conference of the Transportation Research Group of India (CTRG-2021)_.
+- Udhayasekar, S. V., K. K. Srinivasan, and B. R. Chilukuri. 2021. "An efficient graph reduction based label-setting heuristic to find K simple shortest paths on directed networks." _6<sup>th</sup> Conference of the Transportation Research Group of India (CTRG-2021)_.
+- Udhayasekar S. V., M. M. Manjalavil, G. A. Ramakrishnan, A. Devaraj and K. K. Srinivasan. 2021. "An integrated deep learning and regression modelling framework to predict transit demand." _7<sup>th</sup> TransitData International Workshop (TransitData2021)_.
 
 
-# Conference presentations
+## Intellectual Property Rights
 
-- Sethu Vinayagam Udhayasekar, Karthik K. Srinivasan, and Bhargava Rama Chilukuri, “An efficient graph reduction based label-setting heuristic to find K simple shortest paths on directed networks”, in 6<sup>th</sup> Conference of the Transportation Research Group of India (CTRG-2021)
-- Sethu Vinayagam Udhayasekar, Manju Manohar Manjalavil, Ganesh Ambi Ramakrishnan, Aravinda Devaraj, and Karthik K. Srinivasan, “Application of deep learning models to forecast bus transit passenger demand”, in 6<sup>th</sup> Conference of the Transportation Research Group of India (CTRG-2021)
-- Sethu Vinayagam Udhayasekar, Manju Manohar Manjalavil, Ganesh Ambi Ramakrishnan, Aravinda Devaraj, and Karthik K. Srinivasan, “An integrated deep learning and regression modelling framework to predict transit demand”, in 7<sup>th</sup> TransitData international workshop (TransitData2021)
+- A copyright entitled "Software for Personalized Transit Route Guidance System (PTRGS)" with registration no. SW-17056/2023 was filed on 15/06/2023 and granted on 08/08/2023.
