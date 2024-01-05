@@ -1,14 +1,14 @@
 # Biodata
 
-I'm a transportation engineer who uses data to make bus systems smarter and smoother. My research involves predicting what's happening on the bus network in real-time and using that information to improve it. I build models and algorithms to analyze massive datasets, uncovering patterns and trends. This allows me to predict passenger loads, pinpoint bottlenecks, and adjust routes based on demand.
+I'm a transportation engineer who uses data to make public transit systems smarter and smoother. My research involves predicting what's happening on the transit network in real-time and using that information to improve it. I build models and algorithms to analyze massive datasets, uncovering patterns and trends. This allows me to predict passenger loads, pinpoint bottlenecks, and provide real-time route guidance for transit users.
 
 I'm not just a data whiz but also a great collaborator and communicator. I can break down complex ideas and get everyone on board, whether it's at a conference or in a brainstorming session.
 
 My biggest motivation is seeing my data-driven solutions solve real-world problems. Whether reducing passenger wait times or optimizing bus schedules, I'm all about making a tangible impact.
 
-Technology is more than just a tool; it's a superpower that can transform industries and create a better world. And that's what I'm doing, one bus route at a time.
+Technology is more than just a tool; it's a superpower that can transform industries and create a better world. And that's what I'm doing, one transit route at a time.
 
-If you're looking for someone who can translate data into smoother commutes and happier passengers, look no further. I'm your data-driven bus expert, ready to get to work. Let's chat! Find me on [LinkedIn](https://www.linkedin.com/in/sethu-vinayagam-udhayasekar-622152184) or shoot me an email at ce19d702@smail.iitm.ac.in
+If you're looking for someone who can translate data into smoother commutes and happier passengers, look no further. I'm your data-driven transit expert, ready to get to work. Let's chat! Find me on [LinkedIn](https://www.linkedin.com/in/sethu-vinayagam-udhayasekar-622152184) or shoot me an email at ce19d702@smail.iitm.ac.in
 
 
 # Academic Background
