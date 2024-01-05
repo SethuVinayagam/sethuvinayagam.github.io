@@ -46,6 +46,7 @@ If you're looking for someone who can translate data into smoother commutes and 
 # Research Interest
 
 **Models and Algorithms for Real-time State Estimation and Optimization for a Bus Transit System**
+
 _Goal_: To develop solutions to improve public transit service quality in terms of accessibility, reliability, and crowding using real-time automatic vehicle location (AVL) and electronic ticketing machine (ETM) data
 
 
