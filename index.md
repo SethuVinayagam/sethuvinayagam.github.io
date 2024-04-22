@@ -53,11 +53,12 @@ _Goal_: To develop solutions to improve public transit service quality in terms 
 # Research Output
 ## Journal Publications
 
-- Udhayasekar, S. V., K. K. Srinivasan, and B. R. Chilukuri. 2023. "Revisiting transit accessibility: Effect of stochasticity, real-time information, congestion, and network structure." _Transp. Res. Part A Policy Pract._ (Under Review)
 - Udhayasekar, S. V., K. K. Srinivasan, P. Kumar, and B. R. Chilukuri. “Multi-destination K Simple Shortest Paths Problem and Variants: Label-setting Algorithms and Applications.” _IEEE Access_ (Under Review)
 
 ## Conference Presentations
 
+- Udhayasekar, S. V., K. K. Srinivasan, and B. R. Chilukuri. 2024. "A Data-driven Approach for Disaggregate Real-time Forecasts of Public Transit Passenger Demand Using Machine Learning." _The 22<sup>nd</sup> Annual Transport Practitioners' Meeting_.
+- Udhayasekar, S. V., K. K. Srinivasan, and B. R. Chilukuri. 2024. "Joint Forecast of Expected Travel Time and its Reliability for Real-time Transit Applications Based on Sporadic Data." _Transit Data 2024: the 9<sup>th</sup> International Symposium on Research and Applications on the Use of Passive Data from Public Transport_.
 - Udhayasekar S. V., M. M. Manjalavil, G. A. Ramakrishnan, A. Devaraj and K. K. Srinivasan. 2021. "Application of deep learning models to forecast bus transit passenger demand." _6<sup>th</sup> Conference of the Transportation Research Group of India (CTRG-2021)_.
 - Udhayasekar, S. V., K. K. Srinivasan, and B. R. Chilukuri. 2021. "An efficient graph reduction based label-setting heuristic to find K simple shortest paths on directed networks." _6<sup>th</sup> Conference of the Transportation Research Group of India (CTRG-2021)_.
 - Udhayasekar S. V., M. M. Manjalavil, G. A. Ramakrishnan, A. Devaraj and K. K. Srinivasan. 2021. "An integrated deep learning and regression modelling framework to predict transit demand." _7<sup>th</sup> TransitData International Workshop (TransitData2021)_.
