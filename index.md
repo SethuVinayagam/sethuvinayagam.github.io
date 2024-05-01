@@ -63,6 +63,9 @@ _Goal_: To develop solutions to improve public transit service quality in terms 
 - Udhayasekar, S. V., K. K. Srinivasan, and B. R. Chilukuri. 2021. "An efficient graph reduction based label-setting heuristic to find K simple shortest paths on directed networks." _6<sup>th</sup> Conference of the Transportation Research Group of India (CTRG-2021)_.
 - Udhayasekar S. V., M. M. Manjalavil, G. A. Ramakrishnan, A. Devaraj and K. K. Srinivasan. 2021. "An integrated deep learning and regression modelling framework to predict transit demand." _7<sup>th</sup> TransitData International Workshop (TransitData2021)_.
 
+## Book Chapters
+
+- Raj, A., S. V. Udhayasekar, and B. R. Chilukuri. 2024. “A Graphical Tool for Planning and Real-Time Operation of Freight Trains.” _Traffic and Granular Flow ’22_, Lecture Notes in Civil Engineering, Springer Singapore. 
 
 ## Intellectual Property Rights
 
