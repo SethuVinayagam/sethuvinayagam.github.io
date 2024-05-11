@@ -51,10 +51,6 @@ _Goal_: To develop solutions to improve public transit service quality in terms 
 
 
 # Research Output
-## Journal Publications
-
-- Udhayasekar, S. V., K. K. Srinivasan, P. Kumar, and B. R. Chilukuri. “Multi-destination K Simple Shortest Paths Problem and Variants: Label-setting Algorithms and Applications.” _IEEE Access_ (Under Review)
-
 ## Conference Presentations
 
 - Udhayasekar, S. V., K. K. Srinivasan, and B. R. Chilukuri. 2024. "A Data-driven Approach for Disaggregate Real-time Forecasts of Public Transit Passenger Demand Using Machine Learning." _The 22<sup>nd</sup> Annual Transport Practitioners' Meeting_.
