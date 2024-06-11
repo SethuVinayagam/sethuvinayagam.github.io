@@ -61,7 +61,7 @@ _Goal_: To develop solutions to improve public transit service quality in terms 
 
 ## Book Chapters
 
-- Raj, A., U. S. Vinayagam, and B. R. Chilukuri. 2024. “A Graphical Tool for Planning and Real-Time Operation of Freight Trains.” _Traffic and Granular Flow ’22_, K. R. Rao, A. Seyfried, and A. Schadschneider, eds., 399-406. Springer Nature Singapore. https://doi.org/10.1007/978-981-99-7976-9_49
+- Raj, A., U. S. Vinayagam, and B. R. Chilukuri. 2024. “A Graphical Tool for Planning and Real-Time Operation of Freight Trains.” _Traffic and Granular Flow ’22_, K. R. Rao, A. Seyfried, and A. Schadschneider, eds., 399-406. Springer Nature Singapore. [https://doi.org/10.1007/978-981-99-7976-9_49](https://doi.org/10.1007/978-981-99-7976-9_49)
 
 ## Intellectual Property Rights
 
