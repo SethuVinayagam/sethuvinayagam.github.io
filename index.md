@@ -19,7 +19,7 @@ If you're looking for someone who can translate data into smoother commutes and 
     
     _Advisors_: [Dr. Bhargava Rama Chilukuri](https://civil.iitm.ac.in/faculty/bhargava), [Dr. Karthik K. Srinivasan](https://civil.iitm.ac.in/faculty/karthikks)
 
-    _CGPA_: 9.71 / 10
+    _CGPA_: 10 / 10
     
     _Coursework_:
     
