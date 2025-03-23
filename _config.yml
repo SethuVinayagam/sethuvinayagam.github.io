@@ -1,4 +1,38 @@
-title: Sethu Vinayagam Udhayasekar
+# Site Settings
+title: "Sethu Vinayagam Udhayasekar"
+description: "Transportation Engineer | PhD Student at IIT Madras | Research in Transit Optimization & AI for Public Transit"
 logo: /assets/img/profile_picture.jpg
 show_downloads: false
 theme: jekyll-theme-minimal
+
+# Author Information
+author:
+  name: "Sethu Vinayagam Udhayasekar"
+  email: "ce19d702@smail.iitm.ac.in"
+  linkedin: "https://www.linkedin.com/in/sethu-vinayagam-udhayasekar-622152184"
+
+# GitHub Repository Information
+github:
+  is_project_page: false
+  is_user_page: true
+
+# SEO & Social Sharing
+social:
+  name: "Sethu Vinayagam Udhayasekar"
+  links:
+    - "https://www.linkedin.com/in/sethu-vinayagam-udhayasekar-622152184"
+    - "mailto:ce19d702@smail.iitm.ac.in"
+    
+# Plugins
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-feed
+
+# Exclude unnecessary files
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
+  - README.md
